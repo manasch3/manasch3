@@ -1,6 +1,6 @@
 # 💫 About Me:
-Generative AI systems, neural networks, and agent-based architectures.<br>Generative models, AI agents, and research-driven ML systems.<br>Agent optimization, emergent behavior, and scalable MCP design.<br>Advanced neural architectures, GenAI paradigms, and agent frameworks.<br>Generative AI, neural networks, AI agents, and system design.<br>I prefer depth and correctness over novelty.
-
+I work on generative AI systems with a focus on neural networks, AI agents, and scalable multi-component architectures.<br>
+My approach emphasizes depth, rigor, and correctness in both model design and system-level thinking.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas__ch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manas-chintalapudi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manas.chintalapudi@gmail.com) 
